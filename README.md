@@ -1,3 +1,7 @@
+**Rails App Base**: *This is a Git tracking of a Rails app base, cleaned up.*
+
+---
+
 # README
 
 This README would normally document whatever steps are necessary to get the
